@@ -1,0 +1,11 @@
+EmployeeID,Department,Gender,Salary,Experience,Attrition
+101,IT,Male,45000,2,No
+102,HR,Female,40000,3,Yes
+103,Finance,Male,50000,5,No
+104,IT,Female,55000,4,No
+105,HR,Male,42000,2,Yes
+106,Finance,Female,60000,6,No
+107,IT,Male,48000,3,No
+108,HR,Female,43000,2,Yes
+109,Finance,Male,65000,7,No
+110,IT,Female,52000,5,No
